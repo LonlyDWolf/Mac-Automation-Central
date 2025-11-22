@@ -1,0 +1,9 @@
+pypdf
+python-docx
+openpyxl
+python-pptx
+transformers
+fpdf
+pytorch
+torchvision
+torchaudio
